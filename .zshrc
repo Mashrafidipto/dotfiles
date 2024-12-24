@@ -114,6 +114,9 @@ fi
 source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
 alias ls="lsd"
 
 export GEMINI_API_KEY=AIzaSyCKQ2vzYO3jEwaONImwCJ7OpA8fQ6Zp-IE
+
+eval "$(atuin init zsh)"
