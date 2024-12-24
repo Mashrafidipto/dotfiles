@@ -5,4 +5,5 @@
 return {
 	require("custom.plugins.remember"),
 	require("custom.plugins.avante"),
+	require("custom.plugins.floaterm"),
 }

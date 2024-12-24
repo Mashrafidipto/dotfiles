@@ -55,3 +55,6 @@ vim.keymap.set("n", "L", "<cmd>bn<CR>", { desc = "Next Buffer" })
 vim.keymap.set("n", "H", "<cmd>bp<CR>", { desc = "Previous Buffer" })
 
 vim.keymap.set("n", "<C-c>", "<ESC>")
+
+vim.keymap.set("t", "<leader>t", "<cmd>ToggleTerm direction=float<CR>", { desc = "Terminal" })
+vim.keymap.set("n", "<leader>t", "<cmd>ToggleTerm direction=float<CR>", { desc = "Terminal" })
