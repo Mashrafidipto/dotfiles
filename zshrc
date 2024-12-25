@@ -117,9 +117,6 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias ls="lsd"
 
-<<<<<<< HEAD
 source ~/api_gemini
-=======
->>>>>>> a41c73d9bc2a74fa4e9485fa7365d6502989ff26
 
 eval "$(atuin init zsh)"
