@@ -25,6 +25,7 @@
   "nvim-treesitter": { "branch": "master", "commit": "102bc74e093ef54aab57a368db15befeb9ba9d58" },
   "nvim-treesitter-context": { "branch": "master", "commit": "8fd989b6b457a448606b4a2e51f9161700f609a7" },
   "nvim-web-devicons": { "branch": "master", "commit": "0eb18da56e2ba6ba24de7130a12bcc4e31ad11cb" },
+  "onedarkpro.nvim": { "branch": "main", "commit": "e9b44b946bb7760f8125e3bfc648deebb9328e52" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "remember.nvim": { "branch": "master", "commit": "1b5176283bcf91d052b5755d9ba6e8ce14dfc95b" },
   "render-markdown.nvim": { "branch": "main", "commit": "0022a579ac7355966be5ade77699b88c76b6a549" },
@@ -33,7 +34,6 @@
   "telescope.nvim": { "branch": "0.1.x", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
   "todo-comments.nvim": { "branch": "main", "commit": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0" },
   "toggleterm.nvim": { "branch": "main", "commit": "87b2d6a3cab8e2bd9a0255427074285f0365398d" },
-  "tokyonight.nvim": { "branch": "main", "commit": "45d22cf0e1b93476d3b6d362d720412b3d34465c" },
   "vim-sleuth": { "branch": "master", "commit": "be69bff86754b1aa5adcbb527d7fcd1635a84080" },
   "which-key.nvim": { "branch": "main", "commit": "8ab96b38a2530eacba5be717f52e04601eb59326" }
 }
