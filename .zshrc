@@ -117,6 +117,6 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias ls="lsd"
 
-export GEMINI_API_KEY=AIzaSyCKQ2vzYO3jEwaONImwCJ7OpA8fQ6Zp-IE
+source ~/api_gemini
 
 eval "$(atuin init zsh)"
